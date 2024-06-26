@@ -1,6 +1,6 @@
-module github.com/gin-contrib/gzip
+module github.com/sat20-labs/gzip
 
-go 1.18
+go 1.22.1
 
 require (
 	github.com/gin-gonic/gin v1.10.0
